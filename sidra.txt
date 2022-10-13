@@ -4,3 +4,4 @@ using namespace std;
 int main(){
 	cout<<"I.M LEARNING FEOM MUHAMMAD HAMZA..."<<endl;
 	cout<<"MY FIRST EVER GITHUB CODE"<<endl;
+	cout<<"I'M ENTERING A NEW COMMAND FOR CHECKING IT;S UPLOADED OR NOT"<<endl;
