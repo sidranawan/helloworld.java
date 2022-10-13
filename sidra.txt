@@ -1,1 +1,6 @@
-# include <iostream
+# include <iostream>
+using namespace std;
+
+int main(){
+	cout<<"I.M LEARNING FEOM MUHAMMAD HAMZA..."<<endl;
+	cout<<"MY FIRST EVER GITHUB CODE"<<endl;
